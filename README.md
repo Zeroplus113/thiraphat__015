@@ -2,7 +2,7 @@
 #Thitaphat Sangchai 6240011015
 
 
-<img src="assets/1.jpg"  width="500" height="600">
+<img src="assets/screen.png"  width="500" height="600">
 
 
 A new Flutter project.
